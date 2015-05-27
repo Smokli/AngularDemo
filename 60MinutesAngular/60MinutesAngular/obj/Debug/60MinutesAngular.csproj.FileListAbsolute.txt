@@ -1,0 +1,6 @@
+C:\Users\Rub\Desktop\60MinutesAngular\60MinutesAngular\bin\60MinutesAngular.dll.config
+C:\Users\Rub\Desktop\60MinutesAngular\60MinutesAngular\bin\60MinutesAngular.dll
+C:\Users\Rub\Desktop\60MinutesAngular\60MinutesAngular\bin\60MinutesAngular.pdb
+C:\Users\Rub\Desktop\60MinutesAngular\60MinutesAngular\obj\Debug\60MinutesAngular.csprojResolveAssemblyReference.cache
+C:\Users\Rub\Desktop\60MinutesAngular\60MinutesAngular\obj\Debug\60MinutesAngular.dll
+C:\Users\Rub\Desktop\60MinutesAngular\60MinutesAngular\obj\Debug\60MinutesAngular.pdb
